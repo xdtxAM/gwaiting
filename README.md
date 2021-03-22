@@ -10,3 +10,5 @@
 - 💬 对于盛世：所谓盛世是要靠我们一代一代人奋斗出来的，“人民有信仰，民族有希望，国家有力量”
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+![](https://github-readme-stats.vercel.app/api?username=gwaiting)
